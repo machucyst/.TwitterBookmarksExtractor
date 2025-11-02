@@ -1,7 +1,7 @@
-Requirements:
+# Requirements:
  1. Python
  2. Super basic knowledge in directories
-Steps:
+# Steps:
  1. Open your Twitter Bookmarks and DONT Scroll down.
  2. Zoom out as much as you can (Ctrl + Scroll Wheel)
  3. Open Console (Ctrl + Shift + I), copy the js file and paste it in the console.
@@ -13,6 +13,6 @@ Steps:
   6.2 Enter the file format (png or jpg)
  7. Let it run.
  8. Do what you want with the images.
-Notes:
+# Notes:
  1. idk how in/accurate this is
  2. it only works for images (for now(hopefully))
